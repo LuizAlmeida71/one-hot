@@ -48,3 +48,6 @@ terraform.tfstate.backup
 
 # Git LFS placeholder (if you use git lfs)
 *.psd
+
+# Environment variables file
+environment.yml
