@@ -43,9 +43,6 @@ terraform.tfstate
 terraform.tfstate.backup
 *.tfvars
 
-# Conda environment export
-environment.yml
-
 # Logs
 *.log
 
