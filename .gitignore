@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+*.egg
+
+# Virtualenvs
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Streamlit local secrets (don’t commit)
+.streamlit/secrets.toml
+
+# Data and large files (edit to match your folder)
+Base_Dados/*.xlsx
+data/
+*.csv
+*.parquet
+
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+
+# Conda environment export
+environment.yml
+
+# Logs
+*.log
+
+# Git LFS placeholder (if you use git lfs)
+*.psd
